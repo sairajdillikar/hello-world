@@ -36,6 +36,8 @@ Once you click **Rename**, your website will automatically be published at: http
 
 Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
 
+https://sairajdillikar.github.io/
+
 ## Making your first edit
 
 When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
